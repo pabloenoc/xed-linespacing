@@ -9,6 +9,13 @@ Adds line height tweaking for Xed. This helps increase readability.
 ## Usage
 Access Xed's configuration dialog via `Edit | Preferences | Plugins`, and enable the plugin. This adds 3 additional options to the `Tools` menu. Use them to change line spacing.
 
+## Development
+Symlink the development workspace to the plugins directory and reload Xed to see changes take effect.
+
+```bash
+ln -s ~/Developer/xed-linespacing ~/.local/share/xed/plugins/line-spacing
+```
+
 ## Credits
 
 Adapted from GEdit's plugin from [here](https://natural966.wordpress.com/2012/08/19/my-linespacing-plugin-for-gedit-3/)
