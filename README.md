@@ -4,7 +4,7 @@ Adds line height tweaking for Xed. This helps increase readability.
 
 ## Installation
 1. Download `linespacing.plugin` and `linespacing.py` from above.
-2. Copy the files to `/usr/lib/*gnu/xed/plugins/`
+2. Copy the files to your `~/.local/share/xed/plugins` directory.
 
 ## Usage
 Access Xed's configuration dialog via `Edit | Preferences | Plugins`, and enable the plugin. This adds 3 additional options to the `Tools` menu. Use them to change line spacing.
