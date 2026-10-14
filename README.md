@@ -22,4 +22,6 @@ Adapted from GEdit's plugin from [here](https://natural966.wordpress.com/2012/08
 
 Replaced python by python3, and Gedit by Xed.
 
+A newer guide can be found [here](https://web.archive.org/web/20111119220557/http://www.micahcarrick.com/writing-plugins-for-gedit-3-in-python.html).
+
 
